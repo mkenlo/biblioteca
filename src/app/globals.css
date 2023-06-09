@@ -17,11 +17,11 @@
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  color: #725d3a;
+  background: #f2e5d0;
+  margin: 0;
+  padding: 25px;
+}
+.primary-color{
+  color: #725d3a;
 }
